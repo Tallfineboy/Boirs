@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#f5f6fb00,#f5f6fb07),url(/Assets/images/bb.png);
+    background-position: center;
+    background-size: 40%;
+    position: relative;
+    background: fixed;
+}
